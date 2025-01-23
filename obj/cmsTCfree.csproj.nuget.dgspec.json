@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/vvb/Projects/cmsTCfree/cmsTCfree.csproj": {}
+    "/workspaces/TutoCitoCMS/cmsTCfree.csproj": {}
   },
   "projects": {
-    "/home/vvb/Projects/cmsTCfree/cmsTCfree.csproj": {
+    "/workspaces/TutoCitoCMS/cmsTCfree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vvb/Projects/cmsTCfree/cmsTCfree.csproj",
+        "projectUniqueName": "/workspaces/TutoCitoCMS/cmsTCfree.csproj",
         "projectName": "cmsTCfree",
-        "projectPath": "/home/vvb/Projects/cmsTCfree/cmsTCfree.csproj",
-        "packagesPath": "/home/vvb/.nuget/packages/",
-        "outputPath": "/home/vvb/Projects/cmsTCfree/obj/",
+        "projectPath": "/workspaces/TutoCitoCMS/cmsTCfree.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/TutoCitoCMS/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/vvb/.nuget/NuGet/NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
